@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "Theus";
 
 class SobreMim extends Desenvolvedor {
@@ -15,3 +16,4 @@ class Skills extends Desenvolvedor {
 
 ReferenceError: erro is not defined
     at SobreMim.<anonymous> (<anonymous>:5:11): He is not working. 
+```
