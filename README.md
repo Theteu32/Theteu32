@@ -15,5 +15,5 @@ class Skills extends Desenvolvedor {
 }
 
 ReferenceError: erro is not defined
-    at SobreMim.<anonymous> (<anonymous>:5:11): ele não está trabalhando atualmente  
+    at SobreMim.<anonymous> (<anonymous>:5:11): He is not working. 
 ```
