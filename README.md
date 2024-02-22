@@ -31,4 +31,5 @@ ReferenceError: erro is not defined
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
-<p><img align="center" src="</p>
+## 💼 Social Media
+<a href="https://www.linkedin.com/in/matheus-oliveira-25092228a/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="linkedin"></a>
