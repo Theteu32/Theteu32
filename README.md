@@ -33,3 +33,4 @@ ReferenceError: erro is not defined
 ---
 ## 💼 Social Media
 <a href="https://www.linkedin.com/in/matheus-oliveira-25092228a/"><img  src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg?w=740" alt="linkedin" width="50" height="50" ></a>
+<a href="https://www.instagram.com/souza.theus_/"><img  src="https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png" alt="linkedin" width="50" height="50" ></a>
