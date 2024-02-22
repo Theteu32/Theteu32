@@ -32,4 +32,4 @@ ReferenceError: erro is not defined
 
 ---
 ## 💼 Social Media
-<a href="https://www.linkedin.com/in/matheus-oliveira-25092228a/"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="linkedin" width="40" height="40" ></a>
+<a href="https://www.linkedin.com/in/matheus-oliveira-25092228a/"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="linkedin" width="60" height="40" ></a>
